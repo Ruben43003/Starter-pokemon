@@ -1,5 +1,5 @@
 #Starter_pokemon_dialogue
-#Disclaimer: answers must be insrted after 1 space AND capitalize first letter
+#Disclaimer: answers must be inserted after 1 space AND capitalize first letter
 print("Hi my name is professor Oak! This is the start to your journey as a pokemon trainer. Please select one of the pokemon here at this lab.")
 print("")
 print("*Type knowldedge: There are many different pokemon types.")
